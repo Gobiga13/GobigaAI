@@ -18,6 +18,11 @@ git clone https://github.com/Gobiga13/GobigaAI.git
 cd GobigaAI
 npm install
 npm run dev
+## 🌐 Live Demo
+
+👉 http://172.20.149.109:3000/
+
+⚠️ Note: This is a local network link. For public access, deployment is required.
 
 ## 🔑 Environment Variables
 
