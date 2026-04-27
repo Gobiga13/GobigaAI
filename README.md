@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# GobigaAI 🤖
 
-# Run and deploy your AI Studio app
+GobigaAI is a modern AI-powered chat application built using Vite and TypeScript. It allows users to interact with AI in real-time.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- AI-powered chat
+- Fast UI with Vite
+- Responsive design
 
-View your app in AI Studio: https://ai.studio/apps/f52dff81-96be-410c-8bf6-73e7d098c466
+## 🛠️ Tech Stack
+- Vite
+- TypeScript
+- Node.js
 
-## Run Locally
+## ⚙️ Installation
 
-**Prerequisites:**  Node.js
+git clone https://github.com/Gobiga13/GobigaAI.git
+cd GobigaAI
+npm install
+npm run dev
 
+## 🔑 Environment Variables
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+GEMINI_API_KEY=your_api_key_here
+
+## 👨‍💻 Author
+Gobiga
