@@ -35,6 +35,7 @@ cd GobigaAI
 npm install
 npm run dev
 
+```
 For the **About** section on the right side of GitHub, keep:
 
 **Description:**
@@ -44,3 +45,9 @@ For the **About** section on the right side of GitHub, keep:
 > https://gobiga-ai-dqd1.vercel.app/
 
 This way the Vercel link appears only once in the README and once in the GitHub Website field, which is the standard professional setup.
+
+Output Src:
+<img width="1914" height="849" alt="image" src="https://github.com/user-attachments/assets/15eafaa9-f6de-473b-b1cb-ded34e3e3554" />
+
+<img width="1919" height="801" alt="image" src="https://github.com/user-attachments/assets/fbebfcf9-298b-4f48-b447-c445c2728a7c" />
+
